@@ -1,0 +1,3 @@
+###En este archivo podemos ver el resulatdo de una api
+###con la extension REST client
+GET http://localhost:1234/repos/popular
